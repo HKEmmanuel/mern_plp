@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Sophie Martin",
+    "subject": "Mathématiques",
+    "level": "Lycée & Université",
+    "rate": "25€/h",
+    "description": "Étudiante en Master de Mathématiques, je propose des cours particuliers adaptés à tous niveaux. Pédagogue et patiente, je vous aide à progresser rapidement.",
+    "photo": "https://i.pravatar.cc/300?img=1",
+    "availability": ["Lundi", "Mercredi", "Vendredi"],
+    "rating": 4.9,
+    "reviews": 47
+  },
+  {
+    "id": "2",
+    "name": "Thomas Dubois",
+    "subject": "Physique",
+    "level": "Collège & Lycée",
+    "rate": "22€/h",
+    "description": "Ingénieur en physique passionné par l'enseignement. Je rends la physique accessible et intéressante grâce à des exemples concrets.",
+    "photo": "https://i.pravatar.cc/300?img=12",
+    "availability": ["Mardi", "Jeudi", "Samedi"],
+    "rating": 4.8,
+    "reviews": 32
+  },
+  {
+    "id": "3",
+    "name": "Emma Lefebvre",
+    "subject": "Anglais",
+    "level": "Tous niveaux",
+    "rate": "20€/h",
+    "description": "Bilingue anglais-français, j'ai vécu 5 ans aux États-Unis. Je propose des cours dynamiques axés sur la conversation et la confiance.",
+    "photo": "https://i.pravatar.cc/300?img=5",
+    "availability": ["Lundi", "Mardi", "Mercredi", "Jeudi"],
+    "rating": 5.0,
+    "reviews": 68
+  },
+  {
+    "id": "4",
+    "name": "Lucas Bernard",
+    "subject": "Informatique",
+    "level": "Débutant & Intermédiaire",
+    "rate": "30€/h",
+    "description": "Développeur web avec 3 ans d'expérience. J'enseigne la programmation (Python, JavaScript) de manière pratique avec des projets réels.",
+    "photo": "https://i.pravatar.cc/300?img=13",
+    "availability": ["Mercredi", "Samedi", "Dimanche"],
+    "rating": 4.7,
+    "reviews": 25
+  },
+  {
+    "id": "5",
+    "name": "Chloé Petit",
+    "subject": "Français",
+    "level": "Collège & Lycée",
+    "rate": "18€/h",
+    "description": "Étudiante en Lettres Modernes, passionnée de littérature. Je vous aide à améliorer votre rédaction, orthographe et analyse de texte.",
+    "photo": "https://i.pravatar.cc/300?img=9",
+    "availability": ["Lundi", "Mercredi", "Vendredi"],
+    "rating": 4.9,
+    "reviews": 41
+  },
+  {
+    "id": "6",
+    "name": "Hugo Moreau",
+    "subject": "Chimie",
+    "level": "Lycée & Université",
+    "rate": "24€/h",
+    "description": "Doctorant en chimie organique. J'aime rendre cette matière compréhensible avec des expériences et des schémas clairs.",
+    "photo": "https://i.pravatar.cc/300?img=14",
+    "availability": ["Mardi", "Jeudi"],
+    "rating": 4.6,
+    "reviews": 19
+  },
+  {
+    "id": "7",
+    "name": "Léa Rousseau",
+    "subject": "Espagnol",
+    "level": "Tous niveaux",
+    "rate": "19€/h",
+    "description": "Native espagnole, je propose des cours vivants et personnalisés. Conversation, grammaire et culture latino-américaine au programme!",
+    "photo": "https://i.pravatar.cc/300?img=10",
+    "availability": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi"],
+    "rating": 4.8,
+    "reviews": 53
+  },
+  {
+    "id": "8",
+    "name": "Nathan Garcia",
+    "subject": "Histoire",
+    "level": "Collège & Lycée",
+    "rate": "17€/h",
+    "description": "Étudiant en Master d'Histoire, je rends cette matière passionnante grâce à des anecdotes et une approche chronologique claire.",
+    "photo": "https://i.pravatar.cc/300?img=15",
+    "availability": ["Samedi", "Dimanche"],
+    "rating": 4.7,
+    "reviews": 28
+  }
+]
